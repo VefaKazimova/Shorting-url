@@ -11,7 +11,7 @@ const Cards = () => {
         flexWrap: "wrap",
         background: "#eff1f7",
         gap: "15px",
-        height: "300px",
+       paddingBottom:"30px"
       }}
     >
       {" "}
