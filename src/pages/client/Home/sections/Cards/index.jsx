@@ -1,9 +1,11 @@
 import React from "react";
 import { Card, Space } from "antd";
 import combinedImg from "../../../../../assets/Combined Shape.svg";
+import '../Cards/index.css'
 const Cards = () => {
   return (
     <div
+    className="cards"
       style={{
         display: "flex",
         justifyContent: "center",
